@@ -1,0 +1,5 @@
+PlaceValidations\PlaceValidationsTest.class
+actors\BuildData.class
+actors\ResourceAPI.class
+PlaceValidations\PlaceValidationsStepDefs.class
+actors\Utils.class
